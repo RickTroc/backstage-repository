@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "monitoraggio"
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: monitoraggio
+  owner: user:guest
+  lifecycle: experimental
