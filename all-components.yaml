@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: categorie-documenti
+  description: collezione di documenti tecnici
+spec:
+  targets:
+    - ./components/artist-lookup-component.yaml
+    - ./components/petstore-component.yaml
+    - ./components/playback-order-component.yaml
+    - ./components/podcast-api-component.yaml
