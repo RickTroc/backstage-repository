@@ -1,0 +1,53 @@
+site_name: "linee guida"
+site_description: questa è la descrizione del documento
+plugins:
+    - techdocs-core
+nav:
+    - Introduzione:
+        - Cos'è il SIDT?: 'overview/what-is-sidt.md'
+        - Il SIDT Developer Portal: 'overview/sidt-developer-portal.md'
+        - I destinatari: 'overview/destinatari.md'
+        - Developer Portal Roadmap: 'overview/roadmap.md'
+        - Supporto: 'overview/supporto.md'
+    - Per iniziare:
+        - Predisporre l'ambiente di sviluppo: 'getting-started/index.md'
+        - Configurazione di un nuovo progetto:
+            - Repository del Codice: 'getting-started/config/code-repo.md'
+            - Database: 'getting-started/config/database.md'
+            - Autenticazione: 'getting-started/config/authentication.md'
+            - Plugins: 'getting-started/plugins.md'
+        - Provisioning delle Risorse:
+            - VM e Container: 'getting-started/provisioning/vm-container.md'
+            - Database e Storage: 'getting-started/provisioning/database-storage.md'
+    - Linee Guida:
+        - Service Development Life Cycle (SDLC):
+            - Introduzione: 'sdlc/index.md'
+            - Modelli di SDLC: 'sdlc/modelli.md'
+            - L'approccio Agile - Principi e Concetti Chiave: 'sdlc/agile.md'
+            - Il Ciclo di Sviluppo Agile: 'sdlc/ciclo-agile.md'
+            - L'approccio Waterfall: 'sdlc/waterfall.md'
+            - Il Ciclo di Sviluppo Waterfall: 'sdlc/ciclo-waterfall.md'
+        - Modello Organizzativo DevSecOps: 'TBD.md'
+        - Linee Guida Sviluppo Sicuro:
+            - Introduzione: 'lgss/index.md'
+            - Fondamenti del DevSecOps: 'lgss/fondamenti.md'
+            - Strumenti e Automazione: 'lgss/strumenti-automazione.md'
+            - Pratiche di Codifica Sicura: 'lgss/pratiche-codifica.md'
+            - Sicurezza delle API: 'lgss/sicurezza-api.md'
+            - Gestione delle Identità e degli Accessi (IAM): 'lgss/sidentita-accessi.md'
+            - Gestione dei Profili: 'lgss/gestione-profili.md'
+            - Sicurezza dei Dati: 'lgss/sicurezza-dati.md'
+            - Logging e Auditing: 'lgss/logging-auditing.md'
+            - Gestione delle Vulnerabilità: 'lgss/vulnerabilita.md'
+            - Testing di Sicurezza: 'lgss/testing.md'
+            - Risposta agli Incidenti di Sicurezza: 'lgss/risposta-incidenti.md'
+        - Infrastruttura e Architettura Applicativa:
+            - Introduzione: 'features/search/README.md'
+            - Getting Started: 'features/search/getting-started.md'
+            - Concepts: 'features/search/concepts.md'
+            - Search Architecture: 'features/search/architecture.md'
+            - Search Engines: 'features/search/search-engines.md'
+            - HOW TO guides: 'features/search/how-to-guides.md'  
+markdown_extensions:
+    - toc:
+        title: Sommario
