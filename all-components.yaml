@@ -7,5 +7,5 @@ spec:
   targets:
     - ./components/linee-guida/catalog-info.yaml
     - ./components/monitoraggio/catalog-info.yaml
-    - ./components/lorem/catalog-info.yaml
+
     
