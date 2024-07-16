@@ -5,7 +5,7 @@ metadata:
   description: collezione di documenti tecnici
 spec:
   targets:
-    - ./components/artist-lookup-component.yaml
-    - ./components/petstore-component.yaml
-    - ./components/playback-order-component.yaml
-    - ./components/podcast-api-component.yaml
+    - ./components/linee-guida/catalog-info.yaml
+    - ./components/monitoraggio/catalog-info.yaml
+    - ./components/lorem/catalog-info.yaml
+    
