@@ -6,6 +6,5 @@ spec:
   type: openapi
   lifecycle: experimental
   owner: guests
-  system: younified
   definition: 
     $text: ./api-swagger-doc.yaml
