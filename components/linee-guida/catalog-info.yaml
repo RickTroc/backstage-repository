@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "linee-guida"
+  descrizione: "Documentazione che indica le linee guida specifiche di ogni area"
   ruoli: ["A", "B", "C"]
   annotations:
     backstage.io/techdocs-ref: dir:.

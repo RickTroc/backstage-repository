@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "architettura-SIDT"
+  descrizione: "Documentazione per l'architettura di riferimento SIDT "
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: docs
+  owner: 
+  lifecycle: experimental

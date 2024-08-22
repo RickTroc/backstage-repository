@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ambiente-di-sviluppo-sicuro"
+  descrizione: "Documentazione per l'ambiente di sviluppo sicuro"
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: docs
+  owner: 
+  lifecycle: experimental

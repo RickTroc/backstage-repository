@@ -1,4 +1,4 @@
-site_name: "monitoraggio"
+site_name: "Ambiente di sviluppo sicuro"
 site_description: questa è la descrizione del documento
 plugins:
   - techdocs-core
