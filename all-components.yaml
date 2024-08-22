@@ -6,6 +6,8 @@ metadata:
 spec:
   targets:
     - ./components/linee-guida/catalog-info.yaml
-    - ./components/monitoraggio/catalog-info.yaml
+    - ./components/amb-sic/catalog-info.yaml
+    - ./components/arch-SIDT/catalog-info.yaml
+    - ./components/how-to/catalog-info.yaml
 
     
