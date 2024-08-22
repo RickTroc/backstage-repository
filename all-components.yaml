@@ -5,10 +5,10 @@ metadata:
   description: collezione di documenti tecnici
 spec:
   targets:
-    - ./components/how-to/catalog-info.yaml 
+    - ./components/come-fare-per/catalog-info.yaml 
     - ./components/linee-guida/catalog-info.yaml
-    - ./components/amb-sic/catalog-info.yaml
-    - ./components/arch-SIDT/catalog-info.yaml
+    - ./components/ambiente-di-sviluppo-sicuro/catalog-info.yaml
+    - ./components/architettura-SIDT/catalog-info.yaml
    
 
     
