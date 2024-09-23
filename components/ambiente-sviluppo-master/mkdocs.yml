@@ -1,0 +1,12 @@
+site_name: "Architettura dell'ambiente di sviluppo centralizzato"
+site_description: Descrive l'architettura dell'ambiente centralizzato per lo sviluppo sicuro del software nell'ambito del SIDT
+markdown_extensions: 
+    - attr_list
+plugins: 
+    - techdocs-core
+nav:
+    - Introduzione: "index.md"
+    - Architettura dell'ambiente centralizzato di sviluppo sicuro: "02-architettura.md"
+    - Profili e categorie di accesso: "03-profili.md"
+    - Regole e procedure di gestione del repository: "04-gestione-repository.md"
+    - Sicurezza dell'ambiente: "05-sicurezza.md"

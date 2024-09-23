@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "linee-guida-gestione-change"
+  description: "Linee guida per la gestione dei change"
+  tags: 
+    - doc-linee-guida
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:utente
+  lifecycle: experimental

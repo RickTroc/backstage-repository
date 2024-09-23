@@ -9,6 +9,8 @@ spec:
     - ./components/linee-guida/catalog-info.yaml
     - ./components/ambiente-di-sviluppo-sicuro/catalog-info.yaml
     - ./components/architettura-SIDT/catalog-info.yaml
-   
-
-    
+    - ./components/ambiente-sviluppo-master/catalog-info.yaml
+    - ./components/change-management-master/catalog-info.yaml
+    - ./components/collaborazione-comunicazione-team-master/catalog-info.yaml
+    - ./components/documentazione-master/catalog-info.yaml
+    - ./components/integrazione-documentazione-applicativa-master/catalog-info.yaml

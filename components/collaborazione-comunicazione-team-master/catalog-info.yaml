@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "collaborazione-comunicazione-team"
+  description: "Soluzione di collaborazione e comunicazione nei team e best practice"
+  tags: 
+    - doc-env-developer
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:username
+  lifecycle: experimental

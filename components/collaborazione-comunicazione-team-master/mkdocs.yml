@@ -1,0 +1,11 @@
+site_name: "Soluzione di collaborazione e comunicazione nei team e best practice"
+site_description: Strumenti di collaborazione e comunicazione presenti nella piattaforma di sviluppo centralizzata del SIDT e best practice
+plugins: 
+    - techdocs-core
+markdown_extensions:
+    - attr_list
+nav:
+    - Introduzione: "index.md"
+    - Ambiente di Collaborazione per i Team: "02-ambiente-collaborazione.md"
+    - Best Practice per la Collaborazione: "03-best-practice.md"
+    - Linee Guida per l'Utilizzo degli Strumenti di Collaborazione: "04-utilizzo-strumenti.md"

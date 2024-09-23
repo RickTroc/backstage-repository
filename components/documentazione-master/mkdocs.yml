@@ -1,0 +1,18 @@
+site_name: "Linee guida per la redazione della documentazione"
+site_description: Linee guida per la redazione della documentazione tecnica e di progetto nell'ambito del SIDT
+plugins: 
+    - techdocs-core
+markdown_extensions: 
+    - attr_list
+nav:
+    - Introduzione: "index.md"
+    - Principi Fondamentali: "02-principi.md"
+    - Strumenti e Tecnologie: "03-strumenti.md"
+    - Struttura della Documentazione: "04-struttura.md"
+    - Processo di Gestione della Documentazione: "05-processo.md"
+    - Linee Guida di Scrittura: "06-scrittura.md"
+    - Automazione e Integrazione: "07-automazione.md"
+    - Versionamento e Gestione delle Modifiche: "08-versionamento.md"
+    - Distribuzione e Accesso: "09-distribuzione.md"
+    - Esempi e Template: "10-esempi.md"
+    - Risorse addizionali: "11-risorse.md"

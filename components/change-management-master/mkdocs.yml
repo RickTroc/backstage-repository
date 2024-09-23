@@ -1,0 +1,10 @@
+site_name: "Linee Guida per la gestione del Change Management"
+site_description: Questo documento ha lo scopo di descrivere le linee guida per il processo di Gestione dei Cambiamenti (Change Management) inerente all’hardware ed il software presenti nel CED e nelle sedi provinciali del Dipartimento per i Trasporti Terrestri
+markdown_extensions: 
+    - attr_list
+plugins: 
+    - techdocs-core
+nav:
+    - Introduzione: "index.md"
+    - Procedura di Change Management: "02-procedura.md"
+    - Elementi della procedura di Change Management: "03-elementi-change.md"

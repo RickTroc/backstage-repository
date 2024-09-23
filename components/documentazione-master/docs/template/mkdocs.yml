@@ -1,0 +1,18 @@
+site_name: "Linee guida per la produzione della documentazione"
+site_description: Linee guida per la produzione della documentazione tecnica e di progetto nell'ambito del SIDT
+plugins: 
+    - techdocs-core
+nav:
+    - Linee Guida per la Produzione della Documentazione:
+        - Introduzione: "01-introduzione.md"
+        - Principi Fondamentali: "02-principi.md"
+        - Strumenti e Tecnologie: "03-strumenti.md"
+        - Struttura della Documentazione: "04-struttura.md"
+        - Processo di Creazione della Documentazione: "05-processo.md"
+        - Linee Guida di Scrittura: "06-scrittura.md"
+        - Automazione e Integrazione: "07-automazione.md"
+        - Versionamento e Gestione delle Modifiche: "08-versionamento.md"
+        - Accessibilità e Distribuzione: "09-accessibilita.md"
+        - Manutenzione e Aggiornamento: "10-manutenzione.md"
+        - Esempi e Template: "11-esempi.md"
+        - Risorse addizionali: "12-risorse.md"

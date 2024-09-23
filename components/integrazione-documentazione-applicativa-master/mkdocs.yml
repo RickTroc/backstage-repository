@@ -1,0 +1,15 @@
+site_name: "Linee Guida di integrazione della documentazione applicativa e infrastrutturale nell'ambiente di repository"
+site_description: Linee guida per l'integrazione della documentazione tecnica nella piattaforma di sviluppo centralizzata del SIDT
+plugins: 
+    - techdocs-core
+markdown_extensions:
+    - attr_list
+nav:
+    - Introduzione: "index.md"
+    - Tipi di Documentazione Prevista: "02-tipi-documenti.md"
+    - Architettura Applicativa: "03-architettura-applicativa.md"
+    - Manuali Utente: "04-manuali-utente.md"
+    - Manuali di Gestione Operativa: "05-manuali-gestione-operativa.md"
+    - Casi d'Uso - Specifiche Funzionali: "06-casi-uso-specifiche-funzionali.md"
+    - Casi di Test: "07-casi-test.md"
+    - Specifiche Tecniche di Dettaglio: "08-specifiche-tecniche-dettaglio.md"
