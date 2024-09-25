@@ -1,6 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  id: 2
   name: "ambiente-sviluppo-sicuro-architettura-ambiente"
   description: "Architettura dell'ambiente di sviluppo centralizzato"
   tags: 

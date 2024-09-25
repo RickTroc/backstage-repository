@@ -1,6 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  id: 3
   name: "integrazione-documentazione-nei-repository"
   description: "Linee Guida di integrazione della documentazione applicativa e infrastrutturale nell'ambiente di repository"
   tags: 
