@@ -2,10 +2,7 @@ site_name: "Linee Guida di integrazione della documentazione applicativa e infra
 site_description: Linee guida per l'integrazione della documentazione tecnica nella piattaforma di sviluppo centralizzata del SIDT
 plugins: 
     - techdocs-core
-    - with-pdf:
-        cover_subtitle: Project documentation with Markdown.
-        output_path: ../document.pdf
-
+    - with-pdf
 markdown_extensions:
     - attr_list
 nav:
