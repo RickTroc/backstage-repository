@@ -1,8 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  id: 1
-  name: "collaborazione-comunicazione-team"
+  name: "01-collaborazione-comunicazione-team"
   description: "Soluzione di collaborazione e comunicazione nei team e best practice"
   tags: 
     - doc-env-developer
