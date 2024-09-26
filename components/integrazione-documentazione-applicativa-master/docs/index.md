@@ -1,5 +1,4 @@
-# Introduzione                                                                                 [Scarica il pdf!](pdf/document.pdf)                 
-
+# Introduzione                                                            
 Lo scopo principale di questo documento è di descrivere le linee guida per i contenuti della documentazione a corredo dei prodotti software, presentando anche i modelli di contenuto atteso per i vari documenti elencati.
 
 ## Destinatari
