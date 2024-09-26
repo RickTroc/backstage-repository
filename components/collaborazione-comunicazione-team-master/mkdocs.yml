@@ -2,6 +2,7 @@ site_name: "Soluzione di collaborazione e comunicazione nei team e best practice
 site_description: Strumenti di collaborazione e comunicazione presenti nella piattaforma di sviluppo centralizzata del SIDT e best practice
 plugins: 
     - techdocs-core
+    - with-pdf
 markdown_extensions:
     - attr_list
 nav:

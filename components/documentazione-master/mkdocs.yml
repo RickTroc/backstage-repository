@@ -2,6 +2,7 @@ site_name: "Linee guida per la redazione della documentazione"
 site_description: Linee guida per la redazione della documentazione tecnica e di progetto nell'ambito del SIDT
 plugins: 
     - techdocs-core
+    - with-pdf
 markdown_extensions: 
     - attr_list
 nav:

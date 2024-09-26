@@ -4,6 +4,7 @@ markdown_extensions:
     - attr_list
 plugins: 
     - techdocs-core
+    - with-pdf
 nav:
     - Introduzione: "index.md"
     - Procedura di Change Management: "02-procedura.md"

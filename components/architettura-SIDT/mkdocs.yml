@@ -2,5 +2,6 @@ site_name: "Architettura-SIDT"
 site_description: questa è la descrizione del documento
 plugins:
   - techdocs-core
+  - with-pdf
 nav:
   - Getting Started: index.md

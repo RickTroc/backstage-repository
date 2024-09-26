@@ -4,6 +4,7 @@ markdown_extensions:
     - attr_list
 plugins: 
     - techdocs-core
+    - with-pdf    
 nav:
     - Introduzione: "index.md"
     - Architettura dell'ambiente centralizzato di sviluppo sicuro: "02-architettura.md"
