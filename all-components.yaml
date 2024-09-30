@@ -14,3 +14,7 @@ spec:
     - ./components/collaborazione-comunicazione-team-master/catalog-info.yaml
     - ./components/documentazione-master/catalog-info.yaml
     - ./components/integrazione-documentazione-applicativa-master/catalog-info.yaml
+    - ./components/linee-guida-test-automatici-develop/catalog-info.yaml
+    - ./components/onboarding-team-develop/catalog-info.yaml
+    - ./components/processi-deploy-promotion-develop/catalog-info.yaml
+    - ./components/strumenti-automazione-test-develop/catalog-info.yaml
