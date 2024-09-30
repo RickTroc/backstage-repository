@@ -1,0 +1,12 @@
+site_name: "Processi di on boarding dei team"
+site_description: Descrive il processo di integrazione e gestione di nuovi team all'interno dell'Ambiente di Sviluppo Sicuro, dettagliando onboarding, offboarding, e predisposizioni necessarie
+plugins: 
+    - techdocs-core
+markdown_extensions: 
+    - attr_list
+nav:
+    - Introduzione: "index.md"
+    - Processo di Onboarding per Nuovi Team: "02-processo-onboarding.md"
+    - Predisposizione dell'Ambiente di Sviluppo: "03-predisposizione-ambiente.md"
+    - Gestione delle Credenziali e degli Accessi: "04-gestione-credenziali.md"
+    - Procedure di Offboarding: "05-procedura-offboarding.md"

@@ -1,0 +1,12 @@
+site_name: "Strumenti e processo di test automatico del codice"
+site_description: Fornisce un'introduzione all'architettura dell'ambiente di sviluppo sicuro integrata con la gestione dei test automatici
+plugins: 
+    - techdocs-core
+markdown_extensions: 
+    - attr_list
+nav:
+    - Introduzione: "index.md"
+    - Strumenti Selezionati: "02-strumenti.md"
+    - Architettura dell'Ambiente di Test Automatico: "03-architettura-ambiente-test.md"
+    - Implementazione dell'Ambiente di Test: "04-implementazione-ambiente-test.md"
+    - Procedure di Offboarding: "05-procedura-offboarding.md"

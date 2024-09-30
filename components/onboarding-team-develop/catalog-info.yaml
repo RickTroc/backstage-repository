@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "08-ambiente-sviluppo-sicuro-processi-onboarding-team"
+  description: "Processi di on boarding dei team"
+  tags: 
+    - doc-env-developer
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:username
+  lifecycle: experimental

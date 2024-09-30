@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "06-integrazione-documentazione-nei-repository"
-  description: "Linee Guida di integrazione della documentazione applicativa e infrastrutturale nell'ambiente di repository"
+  name: "05-ambiente-sviluppo-sicuro-integrazione-deploy-promotion"
+  description: "Definizione ed integrazione processi di deploy attraverso automazione della promotion (pipeline)"
   tags: 
     - doc-env-developer
   annotations:

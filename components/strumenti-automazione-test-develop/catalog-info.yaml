@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "04-ambiente-sviluppo-sicuro-strumenti-automazione-test"
+  description: "Strumenti e processo di test automatico del codice"
+  tags: 
+    - doc-env-developer
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:username
+  lifecycle: experimental
