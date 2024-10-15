@@ -1,0 +1,4 @@
+.md-typeset .md-content__button {
+    display: none !important;
+    /* Nasconde i pulsanti */
+}
