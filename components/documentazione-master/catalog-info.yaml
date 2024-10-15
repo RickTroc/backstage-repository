@@ -5,8 +5,6 @@ metadata:
   description: "Linee guida per la redazione della documentazione"
   tags: 
     - doc-linee-guida
-  annotations:
-    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: user:rmarchetti rmarchetti@younified.it
