@@ -2,3 +2,7 @@
     display: none !important;
     /* Nasconde i pulsanti */
 }
+.md-content__button {
+    display: none !important;
+    /* Nasconde i pulsanti */
+}
