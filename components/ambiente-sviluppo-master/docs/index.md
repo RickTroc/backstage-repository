@@ -1,3 +1,7 @@
+<style>
+  color: red;
+<style/>
+
 # Introduzione
 
 Il presente documento delinea l'architettura target dell'ambiente centralizzato per lo sviluppo sicuro del software all'interno dell'Amministrazione, la Piattaforma di Sviluppo e Integrazione. Questo ambiente rappresenta un pilastro fondamentale nella strategia di modernizzazione e sicurezza dei processi di sviluppo software, allineandosi alle best practice del settore e alle esigenze specifiche dell'Amministrazione.
