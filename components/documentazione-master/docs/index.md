@@ -1,5 +1,5 @@
 <style>
-.md-content__button {
+.md-typeset .md-content__button {
     display: none;
   }
 </style>
