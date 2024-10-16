@@ -1,3 +1,4 @@
+edit_uri: ""
 site_name: "Linee Guida per l'implementazione dei test del codice"
 site_description: Linee guida per la scrittura, manutenzione e gestione dei test automatici del codice all'interno dell'Ambiente di Sviluppo Sicuro
 markdown_extensions: 
